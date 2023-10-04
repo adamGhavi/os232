@@ -25,3 +25,7 @@ ZCZC W03 20 L01 SCELE/Discord related
 ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 10 L03 GitHub related
 ZCZC W03 60 L09 Weekly Assignments
+ZCZC W04 30 L01 SCELE/Discord related
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 10 L03 GitHub related
+ZCZC W04 60 L09 Weekly Assignments
