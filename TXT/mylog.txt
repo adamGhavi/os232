@@ -33,3 +33,6 @@ ZCZC W05 10 L01 SCELE/Discord related
 ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W05 10 L03 GitHub related
 ZCZC W05 120 L09 Weekly Assignments
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 20 L09 Weekly Assignments
+ZCZC W06 10 L03 GitHub related
