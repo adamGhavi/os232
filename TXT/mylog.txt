@@ -40,3 +40,7 @@ ZCZC W07 30 L01 SCELE/Discord related
 ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W07 10 L03 GitHub related
 ZCZC W07 60 L09 Weekly Assignments
+ZCZC W08 30 L01 SCELE/Discord related
+ZCZC W08 10 L03 GitHub related
+ZCZC W08 10 L05 QUIZ
+ZCZC W08 240 L06 References/Books/Documents/Browsing/GSGS related
